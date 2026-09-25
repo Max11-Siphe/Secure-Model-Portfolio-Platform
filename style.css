@@ -5,8 +5,8 @@
   --cobalt:#223BFF;
   --acid:#D8FF3E;
   --line:rgba(23,20,15,0.18);
-  --serif:'Fraunces', serif;
-  --sans:'Archivo Narrow', sans-serif;
+  --serif:'Unbounded', serif;
+  --sans:'Bricolage Grotesque', sans-serif;
 }
 
 *{box-sizing:border-box;}
